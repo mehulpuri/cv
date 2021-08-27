@@ -1,0 +1,32 @@
+
+    body{
+      background-color: #EAF6F6;
+    }
+    hr{
+
+      border-style: none;
+      border-top-style: dotted;
+      border-color: grey;
+      border-width: 5px;
+      width: 5%;/* Changes according to width of page, looks very clean*/
+
+
+    }
+    img{
+      height: 100px;
+    }
+    h1{
+      color: #66BFBF;
+    }
+    h3{
+      color: #66BFBF;
+    }
+    input{
+      border-color: brown;
+      border-radius: 24px;
+
+    }
+    textarea{
+      border-radius: 24px;
+      border-color: brown;
+    }
